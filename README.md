@@ -6,9 +6,9 @@ This code is based upon the youtube series and work by Prof. John Gallaugher
 His videos at https://YouTube.com/profgallaugher Follow on Twitter: @gallaugher
 
 This work uses the following components:
-Adafruit Circuit Playground Bluetooth
-Adafruit NeoPixel Ring x12
-Micro-USB D to USB-C cable to work with the CPB.
+-Adafruit Circuit Playground Bluetooth
+-Adafruit NeoPixel Ring x12
+-Micro-USB D to USB-C cable to work with the CPB.
 
 The torch is 3d printed using https://www.thingiverse.com/thing:2002669
 We printed ours in PLA, then spray primed and finished using acrlylic paints. The torch top was printed in transparent PLA using minimum infil. 
